@@ -6,12 +6,12 @@ Welcome to K Means Clustering Project , a project designed to simple Means Clust
 
 **Table of Contents**
 
-- [Code Description](#code-description)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Data](#data)
-- [Analysis](#analysis)
-- [Results](#results)
+- [Code Description](#Code_Description)
+- [Requirements](#Requirements)
+- [Usage](#Usage)
+- [Data](#Data)
+- [Analysis](#Analysis)
+- [Results](#Results)
 
 **Code Description**
 
